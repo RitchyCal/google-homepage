@@ -1,0 +1,19 @@
+#logo{
+    padding-top: 109px;
+    padding-bottom: 20px;
+    display:block;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.searchbar{
+    display: block;
+}
+#search{
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+    padding-left: 15px;
+    margin-left:auto ;
+    margin-right:auto ;
+}
